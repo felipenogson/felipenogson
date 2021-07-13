@@ -1,4 +1,8 @@
-<h1>Hello, fellow human</h1>
+<h1>Hello, I'm a</h1>
+Creative Developer offering 9+ years of experience providing high-impact web
+solutions for diverse industry organizations. Skilled in designing and developing
+multiple web-based applications incorporating a range of technologies. Aspiring to combine
+broad background with strong technical skills to excel as a Full Stack Developer.
 
 <h1>My Skillset</h1>
 
