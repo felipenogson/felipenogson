@@ -1,4 +1,51 @@
-### Hi there 👋
+<h1>Hello, fellow human</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=0x00009b&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+
+<hr>
+
+<h1>My Skillset</h1>
+
+## Programming Languages I know
+- Bash 
+- Html,css,js 
+- Python
+- Javascript
+- SQL
+
+## FrameWorks
+- ReactJS
+- Flask
+- 
+
+## Technologies I know
+- Git
+- Docker
+- Wordpress
+- Markdown
+- Arduino
+- RaspberryPI
+
+## Cloud and Hosting Services I am using
+- Amazon Web Services
+- Google Cloud Computing
+- Netlify
+- DigitalOcean
+- Surge
+
+## Operating systems I have worked with
+- Linux (Debian (as well as anything debian based) , Ubuntu are the ones I am comfortable in ) 
+- Windows vista/7/8.1/10 and windows server 2000
+- BSD/UNIX
+- Andriod 
+
+## My extra abilities
+- Photography 
+- Writing 
+- Can copy paste from stack overflow 
+
+
+<hr>
+- 💬 Ask me about anyhing 📫<felipe@nogson.com> 
 
 <!--
 **felipenogson/felipenogson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
