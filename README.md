@@ -42,7 +42,7 @@
 
 
 <hr>
-- 💬 Ask me about anyhing 📫<felipe@nogson.com> 
+- 💬 Ask me about anyhing 📫 <felipe@nogson.com> 
 
 <!--
 **felipenogson/felipenogson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
