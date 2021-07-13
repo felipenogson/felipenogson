@@ -1,4 +1,4 @@
-<h1>Hello, I'm a</h1>
+<h1>Hello, I'm Felipe</h1>
 Creative Developer offering 9+ years of experience providing high-impact web
 solutions for diverse industry organizations. Skilled in designing and developing
 multiple web-based applications incorporating a range of technologies. Aspiring to combine
@@ -16,7 +16,7 @@ broad background with strong technical skills to excel as a Full Stack Developer
 ## FrameWorks
 - ReactJS
 - Flask
-- 
+- Bootstrap
 
 ## Technologies I know
 - Git
@@ -26,7 +26,7 @@ broad background with strong technical skills to excel as a Full Stack Developer
 - Arduino
 - RaspberryPI
 
-## Cloud and Hosting Services I am using
+## I am using Cloud and Hosting Services 
 - Amazon Web Services
 - Google Cloud Computing
 - Netlify
