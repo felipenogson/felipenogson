@@ -1,6 +1,5 @@
 <h1>Hello, I'm Felipe</h1>
-Creative Developer offering 9+ years of experience providing high-impact web
-solutions for diverse industry organizations. Skilled in designing and developing
+Creative Developer. Skilled in designing and developing
 multiple web-based applications incorporating a range of technologies. Aspiring to combine
 broad background with strong technical skills to excel as a Full Stack Developer.
 
